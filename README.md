@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Francesco
 
-<!--
-**FrancescoSaverioZuppichini/FrancescoSaverioZuppichini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <a href="https://www.linkedin.com/in/francesco-saverio-zuppichini-94659a150/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://medium.com/@FrancescoZ" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
+</p>
 
-Here are some ideas to get you started:
+### About me :rocket:
+- 🎓  I am a Computer Vision Engineer @PwC
+- ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Computer Vision and Robotics** 
+- 📜 BSc Informatics and MSc Artificial Intelligence
+- 📫 How to reach me: francesco.zuppichini@gmail.com
+- 🏠 Zurich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoSaverioZuppichini&show_icons=true&theme=vue-dark)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FrancescoSaverioZuppichini.count_visitors)
+
