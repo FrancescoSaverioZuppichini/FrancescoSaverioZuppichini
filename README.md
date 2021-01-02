@@ -11,8 +11,7 @@
 - 🏠 Zurich
 
 
-
-![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoSaverioZuppichini&show_icons=true&theme=vue-dark)
+[![Francesco's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoSaverioZuppichini)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FrancescoSaverioZuppichini.count_visitors)
 
