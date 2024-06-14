@@ -6,7 +6,7 @@
 </p>
 
 ### About me :rocket:
-- 🎓  I am a Deep Learning (mostly Computer Vision) Engineer  @~~PwC~~ ~~[V7](https://www.v7labs.com/)~~ ~~[hugging face](https://huggingface.co/)~~ [RoboFlow](https://roboflow.com/)
+- 🎓  I am a Deep Learning (mostly Computer Vision) Engineer  @~~PwC~~ ~~[V7](https://www.v7labs.com/)~~ ~~[hugging face](https://huggingface.co/)~~ ~~[RoboFlow](https://roboflow.com/)~~ [Zurich Insurance](https://www.zurich.it/)
 - ❤️ I am passionate about **Software Engineering, Open-Source, Machine Learning/Deep Learning, Computer Vision and Robotics** 
 - 📜 BSc Informatics and MSc Artificial Intelligence
 - 📫 How to reach me: francesco.zuppichini@gmail.com
